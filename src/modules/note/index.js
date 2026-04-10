@@ -1,0 +1,1 @@
+export {default as noterouter} from "./note.controller.js"
